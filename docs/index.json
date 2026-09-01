@@ -1,7 +1,7 @@
 [
   {
     "name": "tailrocks-contribute-prepare",
-    "description": " Use only when the user explicitly requests this skill. Implement one approved external contribution in the user's dedicated fork clone and produce a local submission package. Never pushes, posts, signs, submits, or mutates the upstream project.",
+    "description": "Use only when the user explicitly requests this skill. Implement one approved external contribution in the user's dedicated fork clone and produce a local submission package. Never pushes, posts, signs, submits, or mutates the upstream project.",
     "argumentHint": "<approved proposal and fork clone>",
     "overview": "skills/tailrocks-contribute-prepare/index.md",
     "definition": "skills/tailrocks-contribute-prepare/definition.md",
@@ -9,7 +9,7 @@
   },
   {
     "name": "tailrocks-contribute-propose",
-    "description": " Use only when the user explicitly requests this skill. Turn one current contribution recon into a locally stored venue proposal or hard-stop redirect. Never edits the fork, contacts maintainers, claims work, posts, or treats a draft as approval.",
+    "description": "Use only when the user explicitly requests this skill. Turn one current contribution recon into a locally stored venue proposal or hard-stop redirect. Never edits the fork, contacts maintainers, claims work, posts, or treats a draft as approval.",
     "argumentHint": "<contrib handoff and proposed change>",
     "overview": "skills/tailrocks-contribute-propose/index.md",
     "definition": "skills/tailrocks-contribute-propose/definition.md",
@@ -17,7 +17,7 @@
   },
   {
     "name": "tailrocks-contribute-recon",
-    "description": " Use only when the user explicitly requests this skill. Reconnoiter one external open-source project and write a current local contribution contract. Read-only toward the target and fork; requires fresh approval before each network boundary and never proposes, edits, or submits.",
+    "description": "Use only when the user explicitly requests this skill. Reconnoiter one external open-source project and write a current local contribution contract. Read-only toward the target and fork; requires fresh approval before each network boundary and never proposes, edits, or submits.",
     "argumentHint": "<repo-url|owner/repo> [issue-number]",
     "overview": "skills/tailrocks-contribute-recon/index.md",
     "definition": "skills/tailrocks-contribute-recon/definition.md",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tailrocks-contribute-respond",
-    "description": " Use only when the user explicitly requests this skill. Handle one submitted contribution's current review round through approved local fixes and separately approved remote actions. Never auto-posts, auto-pushes, escalates, or carries approval between actions.",
+    "description": "Use only when the user explicitly requests this skill. Handle one submitted contribution's current review round through approved local fixes and separately approved remote actions. Never auto-posts, auto-pushes, escalates, or carries approval between actions.",
     "argumentHint": "<submitted contribution handoff>",
     "overview": "skills/tailrocks-contribute-respond/index.md",
     "definition": "skills/tailrocks-contribute-respond/definition.md",
@@ -33,7 +33,7 @@
   },
   {
     "name": "tailrocks-contribute-submit",
-    "description": " Use only when the user explicitly requests this skill. Submit one current prepared external contribution through exact separately approved legal, push, and PR actions. Revalidates remote state before every action and reports partial publication honestly.",
+    "description": "Use only when the user explicitly requests this skill. Submit one current prepared external contribution through exact separately approved legal, push, and PR actions. Revalidates remote state before every action and reports partial publication honestly.",
     "argumentHint": "<prepared contribution handoff>",
     "overview": "skills/tailrocks-contribute-submit/index.md",
     "definition": "skills/tailrocks-contribute-submit/definition.md",
