@@ -1,0 +1,42 @@
+[
+  {
+    "name": "tailrocks-contribute-prepare",
+    "description": ">-",
+    "argumentHint": "<approved proposal and fork clone>",
+    "overview": "skills/tailrocks-contribute-prepare/index.md",
+    "definition": "skills/tailrocks-contribute-prepare/definition.md",
+    "source": "https://github.com/tailrocks/tailrocks-open-source-skills/blob/main/skills/tailrocks-contribute-prepare/SKILL.md"
+  },
+  {
+    "name": "tailrocks-contribute-propose",
+    "description": ">-",
+    "argumentHint": "<contrib handoff and proposed change>",
+    "overview": "skills/tailrocks-contribute-propose/index.md",
+    "definition": "skills/tailrocks-contribute-propose/definition.md",
+    "source": "https://github.com/tailrocks/tailrocks-open-source-skills/blob/main/skills/tailrocks-contribute-propose/SKILL.md"
+  },
+  {
+    "name": "tailrocks-contribute-recon",
+    "description": ">-",
+    "argumentHint": "<repo-url|owner/repo> [issue-number]",
+    "overview": "skills/tailrocks-contribute-recon/index.md",
+    "definition": "skills/tailrocks-contribute-recon/definition.md",
+    "source": "https://github.com/tailrocks/tailrocks-open-source-skills/blob/main/skills/tailrocks-contribute-recon/SKILL.md"
+  },
+  {
+    "name": "tailrocks-contribute-respond",
+    "description": ">-",
+    "argumentHint": "<submitted contribution handoff>",
+    "overview": "skills/tailrocks-contribute-respond/index.md",
+    "definition": "skills/tailrocks-contribute-respond/definition.md",
+    "source": "https://github.com/tailrocks/tailrocks-open-source-skills/blob/main/skills/tailrocks-contribute-respond/SKILL.md"
+  },
+  {
+    "name": "tailrocks-contribute-submit",
+    "description": ">-",
+    "argumentHint": "<prepared contribution handoff>",
+    "overview": "skills/tailrocks-contribute-submit/index.md",
+    "definition": "skills/tailrocks-contribute-submit/definition.md",
+    "source": "https://github.com/tailrocks/tailrocks-open-source-skills/blob/main/skills/tailrocks-contribute-submit/SKILL.md"
+  }
+]
