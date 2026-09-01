@@ -1,5 +1,17 @@
 {
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "tailrocks-open-source-skills",
-  "description": "Cross-agent Tailrocks skills for strict Rust, Axum, TypeScript, TanStack, native macOS Swift with Liquid Glass, code-health ratchets, and the roadmap delivery pipeline (idea, brainstorm, research, record-decision, finalize, plan, reconcile, portable goal handoff)"
+  "description": "Controlled open-source contribution workflows from repository reconnaissance through proposal, preparation, submission, and review response.",
+  "keywords": [
+    "open-source",
+    "contributions",
+    "reconnaissance",
+    "proposal",
+    "fork",
+    "pull-request",
+    "maintainers",
+    "review-response"
+  ],
+  "homepage": "https://github.com/tailrocks/tailrocks-open-source-skills",
+  "repository": "https://github.com/tailrocks/tailrocks-open-source-skills"
 }

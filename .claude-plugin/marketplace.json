@@ -11,9 +11,9 @@
     {
       "name": "tailrocks-open-source-skills",
       "source": "./",
-      "description": "Cross-agent Tailrocks skills for strict Rust, Axum, TypeScript, TanStack, native macOS Swift with Liquid Glass, code-health ratchets, and the roadmap delivery pipeline (idea, brainstorm, research, record-decision, finalize, plan, reconcile, portable goal handoff)",
+      "description": "Controlled open-source contribution workflows from repository reconnaissance through proposal, preparation, submission, and review response.",
       "version": "0.28.0",
-      "category": "workflow"
+      "category": "Open Source Skills"
     }
   ]
 }
